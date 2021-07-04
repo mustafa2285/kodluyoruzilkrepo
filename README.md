@@ -6,6 +6,8 @@
 
 * Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
 
+![Lorem Picsum Gorsel](Adsız.png)
+
 ```
 git clone https://github.com/mustafa2285/kodluyoruzilkrepo.git
 ```
